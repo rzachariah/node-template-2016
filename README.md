@@ -1,2 +1,2 @@
 # node-template
-ES6 node project with babel
+Template node web server with Babel
